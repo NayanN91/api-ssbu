@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "nom": "Mario",
+    "image": "lien_vers_image_mario",
+    "description": "Le célèbre plombier de Nintendo avec une multitude de compétences polyvalentes."
+  },
+  {
+    "id": 2,
+    "nom": "Donkey Kong",
+    "image": "lien_vers_image_donkey_kong",
+    "description": "Un gorille puissant et lourd qui excelle dans les attaques au corps à corps."
+  },
+  {
+    "id": 3,
+    "nom": "Link",
+    "image": "lien_vers_image_link",
+    "description": "Le héros légendaire de la série The Legend of Zelda avec une grande variété d'armes et d'outils."
+  },
+  {
+    "id": 4,
+    "nom": "Samus",
+    "image": "lien_vers_image_samus",
+    "description": "Une chasseuse de primes armée d'un puissant exosquelette et de différentes armes."
+  },
+  {
+    "id": 5,
+    "nom": "Dark Samus",
+    "image": "lien_vers_image_dark_samus",
+    "description": "Une version corrompue de Samus, dotée de pouvoirs ténébreux."
+  },
+  {
+    "id": 6,
+    "nom": "Yoshi",
+    "image": "lien_vers_image_yoshi",
+    "description": "Un adorable dinosaure vert capable de sauter haut et d'avaler ses ennemis."
+  },
+  {
+    "id": 7,
+    "nom": "Kirby",
+    "image": "lien_vers_image_kirby",
+    "description": "Une petite boule rose qui peut absorber les capacités de ses adversaires."
+  },
+  {
+    "id": 8,
+    "nom": "Fox",
+    "image": "lien_vers_image_fox",
+    "description": "Un renard agile et rapide, pilote d'un Arwing, prêt à l'action."
+  },
+  {
+    "id": 9,
+    "nom": "Pikachu",
+    "image": "lien_vers_image_pikachu",
+    "description": "Le célèbre Pokémon jaune connu pour ses attaques électriques."
+  },
+  {
+    "id": 10,
+    "nom": "Luigi",
+    "image": "lien_vers_image_luigi",
+    "description": "Le frère de Mario, un peu peureux mais plein de ressources."
+  },
+  {
+    "id": 11,
+    "nom": "Ness",
+    "image": "lien_vers_image_ness",
+    "description": "Un jeune garçon doté de pouvoirs psychiques issus de la série EarthBound."
+  },
+  {
+    "id": 12,
+    "nom": "Captain Falcon",
+    "image": "lien_vers_image_captain_falcon",
+    "description": "Un pilote de F-Zero avec des attaques rapides et puissantes."
+  },
+  {
+    "id": 13,
+    "nom": "Jigglypuff",
+    "image": "lien_vers_image_jigglypuff",
+    "description": "Un Pokémon rose qui chante ses ennemis pour les endormir."
+  },
+  {
+    "id": 14,
+    "nom": "Peach",
+    "image": "lien_vers_image_peach",
+    "description": "La princesse du Royaume Champignon avec des attaques basées sur ses émotions."
+  },
+  {
+    "id": 15,
+    "nom": "Daisy",
+    "image": "lien_vers_image_daisy",
+    "description": "La princesse alternative du Royaume Champignon avec des mouvements similaires à Peach."
+  },
+  {
+    "id": 16,
+    "nom": "Bowser",
+    "image": "lien_vers_image_bowser",
+    "description": "Le roi des Koopas, un puissant adversaire avec des attaques redoutables."
+  },
+  {
+    "id": 17,
+    "nom": "Ice Climbers",
+    "image": "lien_vers_image_ice_climbers",
+    "description": "Un duo de grimpeurs de montagne capables d'attaquer ensemble en utilisant leurs marteaux."
+  },
+  {
+    "id": 18,
+    "nom": "Sheik",
+    "image": "lien_vers_image_sheik",
+    "description": "L'alter ego ninja de la princesse Zelda, rapide et agile."
+  },
+  {
+    "id": 19,
+    "nom": "Zelda",
+    "image": "lien_vers_image_zelda",
+    "description": "La princesse d'Hyrule avec des attaques magiques puissantes."
+  },
+  {
+    "id": 20,
+    "nom": "Dr. Mario",
+    "image": "lien_vers_image_dr_mario",
+    "description": "La version médicale de Mario, utilisant des compétences médicales pour combattre."
+  },
+  {
+    "id": 21,
+    "nom": "Pichu",
+    "image": "lien_vers_image_pichu",
+    "description": "Une version plus petite et plus mignonne de Pikachu, mais avec des attaques électriques autodestructrices."
+  },
+  {
+    "id": 22,
+    "nom": "Falco",
+    "image": "lien_vers_image_falco",
+    "description": "Un membre de l'équipe Star Fox avec des mouvements similaires à ceux de Fox."
+  },
+  {
+    "id": 23,
+    "nom": "Marth",
+    "image": "lien_vers_image_marth",
+    "description": "Un épéiste noble de la série Fire Emblem, avec des attaques précises et puissantes."
+  },
+  {
+    "id": 24,
+    "nom": "Lucina",
+    "image": "lien_vers_image_lucina",
+    "description": "Une version alternative de Marth avec des attaques similaires, tirée de la série Fire Emblem."
+  },
+  {
+    "id": 25,
+    "nom": "Young Link",
+    "image": "lien_vers_image_young_link",
+    "description": "Une version jeune de Link, agile et rapide avec une variété d'armes."
+  },
+  {
+    "id": 26,
+    "nom": "Ganondorf",
+    "image": "lien_vers_image_ganondorf",
+    "description": "Le puissant seigneur du mal de la série The Legend of Zelda, avec des attaques lourdes et dévastatrices."
+  },
+  {
+    "id": 27,
+    "nom": "Mewtwo",
+    "image": "lien_vers_image_mewtwo",
+    "description": "Un Pokémon légendaire doté de pouvoirs psychiques puissants."
+  },
+  {
+    "id": 28,
+    "nom": "Roy",
+    "image": "lien_vers_image_roy",
+    "description": "Un épéiste de la série Fire Emblem, avec des attaques feu et épée."
+  },
+  {
+    "id": 29,
+    "nom": "Chrom",
+    "image": "lien_vers_image_chrom",
+    "description": "Un épéiste de la série Fire Emblem, similaire à Roy et à Marth."
+  },
+  {
+    "id": 30,
+    "nom": "Mr. Game & Watch",
+    "image": "lien_vers_image_mr_game_and_watch",
+    "description": "Un personnage rétro en deux dimensions, avec des attaques basées sur les jeux électroniques."
+  },
+  {
+    "id": 31,
+    "nom": "Meta Knight",
+    "image": "lien_vers_image_meta_knight",
+    "description": "Un chevalier masqué rapide et agile, avec des attaques acrobatiques."
+  },
+  {
+    "id": 32,
+    "nom": "Pit",
+    "image": "lien_vers_image_pit",
+    "description": "Un ange armé d'un arc et d'une épée, combattant pour la justice."
+  },
+  {
+    "id": 33,
+    "nom": "Dark Pit",
+    "image": "lien_vers_image_dark_pit",
+    "description": "Une version sombre et rebelle de Pit, aux compétences similaires."
+  },
+  {
+    "id": 34,
+    "nom": "Zero Suit Samus",
+    "image": "lien_vers_image_zero_suit_samus",
+    "description": "Samus Aran sans son armure, rapide et agile avec des attaques foudroyantes."
+  },
+  {
+    "id": 35,
+    "nom": "Wario",
+    "image": "lien_vers_image_wario",
+    "description": "Un anti-héros avec des mouvements excentriques et un appétit pour les trésors."
+  },
+  {
+    "id": 36,
+    "nom": "Snake",
+    "image": "lien_vers_image_snake",
+    "description": "Un soldat furtif et expert en explosifs de la série Metal Gear."
+  },
+  {
+    "id": 37,
+    "nom": "Ike",
+    "image": "lien_vers_image_ike",
+    "description": "Un puissant guerrier de la série Fire Emblem avec des attaques lourdes."
+  },
+  {
+    "id": 38,
+    "nom": "Pokémon Trainer",
+    "image": "lien_vers_image_pokemon_trainer",
+    "description": "Un dresseur de Pokémon qui peut appeler Bulbizarre, Herbizarre et Florizarre pour combattre."
+  },
+  {
+    "id": 39,
+    "nom": "Diddy Kong",
+    "image": "lien_vers_image_diddy_kong",
+    "description": "Le fidèle compagnon de Donkey Kong, agile et équipé d'un jetpack."
+  },
+  {
+    "id": 40,
+    "nom": "Lucas",
+    "image": "lien_vers_image_lucas",
+    "description": "Un jeune garçon doté de pouvoirs psychiques issus de la série Mother."
+  },
+  {
+    "id": 41,
+    "nom": "Sonic",
+    "image": "lien_vers_image_sonic",
+    "description": "Le hérisson bleu supersonique, avec une vitesse incroyable et des attaques rapides."
+  },
+  {
+    "id": 42,
+    "nom": "King Dedede",
+    "image": "lien_vers_image_king_dedede",
+    "description": "Le roi des pingouins de Dream Land, doté d'une grande force et d'un marteau massif."
+  },
+  {
+    "id": 43,
+    "nom": "Olimar",
+    "image": "lien_vers_image_olimar",
+    "description": "Un astronaute qui dirige une armée de Pikmin pour combattre."
+  },
+  {
+    "id": 44,
+    "nom": "Lucario",
+    "image": "lien_vers_image_lucario",
+    "description": "Un Pokémon qui utilise l'énergie de son aura pour augmenter sa puissance."
+  },
+  {
+    "id": 45,
+    "nom": "R.O.B.",
+    "image": "lien_vers_image_rob",
+    "description": "Le robot accessoire de la NES, capable de tirer des lasers et de planer."
+  },
+  {
+    "id": 46,
+    "nom": "Toon Link",
+    "image": "lien_vers_image_toon_link",
+    "description": "Une version de Link avec un style de dessin animé, rapide et agile."
+  },
+  {
+    "id": 47,
+    "nom": "Wolf",
+    "image": "lien_vers_image_wolf",
+    "description": "Un membre rebelle de l'équipe Star Fox, avec des attaques féroces."
+  },
+  {
+    "id": 48,
+    "nom": "Villager",
+    "image": "lien_vers_image_villager",
+    "description": "Un résident paisible d'un village, mais avec des pièges et des objets surprenants."
+  },
+  {
+    "id": 49,
+    "nom": "Mega Man",
+    "image": "lien_vers_image_mega_man",
+    "description": "Le célèbre robot bleu armé"
+  },
+  {
+    "id": 50,
+    "nom": "Wii Fit Trainer",
+    "image": "lien_vers_image_wii_fit_trainer",
+    "description": "Un instructeur de fitness avec des mouvements basés sur le yoga et les exercices."
+  },
+  {
+    "id": 51,
+    "nom": "Rosalina & Luma",
+    "image": "lien_vers_image_rosalina_luma",
+    "description": "La princesse cosmique accompagnée d'une Luma qui peut attaquer indépendamment."
+  },
+  {
+    "id": 52,
+    "nom": "Little Mac",
+    "image": "lien_vers_image_little_mac",
+    "description": "Un boxeur déterminé de la série Punch-Out!!, avec des attaques puissantes au corps à corps."
+  },
+  {
+    "id": 53,
+    "nom": "Greninja",
+    "image": "lien_vers_image_greninja",
+    "description": "Un Pokémon de type Eau/Ténèbres, rapide et agile avec des attaques ninja."
+  },
+  {
+    "id": 54,
+    "nom": "Mii Brawler",
+    "image": "lien_vers_image_mii_brawler",
+    "description": "Un personnage personnalisable avec un style de combat basé sur les arts martiaux."
+  },
+  {
+    "id": 55,
+    "nom": "Mii Swordfighter",
+    "image": "lien_vers_image_mii_swordfighter",
+    "description": "Un personnage personnalisable avec un style de combat basé sur l'épée."
+  },
+  {
+    "id": 56,
+    "nom": "Mii Gunner",
+    "image": "lien_vers_image_mii_gunner",
+    "description": "Un personnage personnalisable avec un style de combat basé sur les armes à feu."
+  },
+  {
+    "id": 57,
+    "nom": "Palutena",
+    "image": "lien_vers_image_palutena",
+    "description": "La déesse de la lumière avec des attaques magiques et des pouvoirs divins."
+  },
+  {
+    "id": 58,
+    "nom": "Pac-Man",
+    "image": "lien_vers_image_pac_man",
+    "description": "Le célèbre personnage de jeu d'arcade, avec des attaques basées sur les jeux classiques."
+  },
+  {
+    "id": 59,
+    "nom": "Robin",
+    "image": "lien_vers_image_robin",
+    "description": "Un tacticien de la série Fire Emblem, utilisant la magie et une épée."
+  },
+  {
+    "id": 60,
+    "nom": "Shulk",
+    "image": "lien_vers_image_shulk",
+    "description": "Le protagoniste de Xenoblade Chronicles, capable de prédire et de modifier son avenir."
+  },
+  {
+    "id": 61,
+    "nom": "Bowser Jr.",
+    "image": "lien_vers_image_bowser_jr",
+    "description": "Le fils de Bowser, avec une variété de gadgets et de véhicules à sa disposition."
+  },
+  {
+    "id": 62,
+    "nom": "Duck Hunt",
+    "image": "lien_vers_image_duck_hunt",
+    "description": "Un duo composé d'un chien et d'un canard, utilisant des attaques basées sur le jeu du même nom."
+  },
+  {
+    "id": 63,
+    "nom": "Ryu",
+    "image": "lien_vers_image_ryu",
+    "description": "Le célèbre combattant de Street Fighter, maîtrisant les arts martiaux et les attaques spéciales."
+  },
+  {
+    "id": 64,
+    "nom": "Ken",
+    "image": "lien_vers_image_ken",
+    "description": "Une version alternative de Ryu avec des attaques de flamme plus puissantes."
+  },
+  {
+    "id": 65,
+    "nom": "Cloud",
+    "image": "lien_vers_image_cloud",
+    "description": "Le héros du jeu de rôle Final Fantasy VII, avec une immense épée et des attaques spéciales."
+  },
+  {
+    "id": 66,
+    "nom": "Corrin",
+    "image": "lien_vers_image_corrin",
+    "description": "Un être capable de se transformer en dragon, avec des attaques basées sur les écailles et les griffes."
+  },
+  {
+    "id": 67,
+    "nom": "Bayonetta",
+    "image": "lien_vers_image_bayonetta",
+    "description": "Une sorcière avec des mouvements élégants et puissants issus de la série de jeux Bayonetta."
+  },
+  {
+    "id": 68,
+    "nom": "Inkling",
+    "image": "lien_vers_image_inkling",
+    "description": "Un combattant de Splatoon capable de tirer de l'encre et de se transformer en calamar."
+  },
+  {
+    "id": 69,
+    "nom": "Ridley",
+    "image": "lien_vers_image_ridley",
+    "description": "Un puissant dragon extraterrestre, ennemi juré de Samus Aran, avec des attaques redoutables."
+  },
+  {
+    "id": 70,
+    "nom": "Simon",
+    "image": "lien_vers_image_simon",
+    "description": "Le chasseur de vampires de la série Castlevania, utilisant un fouet et des armes de longue portée."
+  },
+  {
+    "id": 71,
+    "nom": "Richter",
+    "image": "lien_vers_image_richter",
+    "description": "Une version alternative de Simon avec des attaques similaires, tirée de la série Castlevania."
+  },
+  {
+    "id": 72,
+    "nom": "King K. Rool",
+    "image": "lien_vers_image_king_k_rool",
+    "description": "Le roi des Kremlings, ennemi de Donkey Kong, utilisant sa taille et sa force pour combattre."
+  },
+  {
+    "id": 73,
+    "nom": "Isabelle",
+    "image": "lien_vers_image_isabelle",
+    "description": "La secrétaire mignonne de Animal Crossing, utilisant des objets du quotidien pour attaquer."
+  },
+  {
+    "id": 74,
+    "nom": "Incineroar",
+    "image": "lien_vers_image_incineroar",
+    "description": "Un Pokémon de type Feu/Ténèbres, avec des mouvements de lutte flamboyants."
+  },
+  {
+    "id": 75,
+    "nom": "Piranha Plant",
+    "image": "lien_vers_image_piranha_plant",
+    "description": "Une plante carnivore de l'univers de Mario, utilisant ses crocs et ses projectiles pour attaquer."
+  },
+  {
+    "id": 76,
+    "nom": "Joker",
+    "image": "lien_vers_image_joker",
+    "description": "Le protagoniste de Persona 5, avec des attaques rapides et des capacités de manipulation."
+  },
+  {
+    "id": 77,
+    "nom": "Hero",
+    "image": "lien_vers_image_hero",
+    "description": "Le protagoniste de la série Dragon Quest, capable d'utiliser différentes compétences magiques et d'épée."
+  },
+  {
+    "id": 78,
+    "nom": "Banjo & Kazooie",
+    "image": "lien_vers_image_banjo_kazooie",
+    "description": "Un duo d'aventuriers, avec Banjo l'ours et Kazooie l'oiseau, utilisant des attaques combinées."
+  },
+  {
+    "id": 79,
+    "nom": "Terry",
+    "image": "lien_vers_image_terry",
+    "description": "Le combattant emblématique de la série de jeux de combat Fatal Fury, avec des attaques puissantes."
+  },
+  {
+    "id": 80,
+    "nom": "Byleth",
+    "image": "lien_vers_image_byleth",
+    "description": "Le protagoniste de Fire Emblem: Three Houses, utilisant différentes armes pour combattre."
+  },
+  {
+    "id": 81,
+    "nom": "Min Min",
+    "image": "lien_vers_image_min_min",
+    "description": "Une combattante de ARMS avec des bras extensibles et des attaques à distance."
+  },
+  {
+    "id": 82,
+    "nom": "Steve",
+    "image": "lien_vers_image_steve",
+    "description": "Le protagoniste de Minecraft, capable de construire et d'utiliser une variété d'outils et d'armes."
+  },
+  {
+    "id": 83,
+    "nom": "Sephiroth",
+    "image": "lien_vers_image_sephiroth",
+    "description": "L'antagoniste principal de Final Fantasy VII, avec une épée massive et des pouvoirs destructeurs."
+  },
+  {
+    "id": 84,
+    "nom": "Alex",
+    "image": "lien_vers_image_alex",
+    "description": "Une version alternative de Steve avec un look différent, issu de Minecraft."
+  }
+]
